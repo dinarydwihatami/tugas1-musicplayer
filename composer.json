@@ -1,0 +1,14 @@
+{
+    "name": "dinary/uts3",
+    "description": "program tugas",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "dinarydwihatami",
+            "email": "dinarydwihatami01@yahoo.com"
+        }
+    ]
+}
